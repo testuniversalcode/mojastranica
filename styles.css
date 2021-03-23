@@ -1,0 +1,30 @@
+body {
+	background-image: url(1.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+#glavni_naslov {
+	background-color: red;
+	color: green;
+	text-align: center;
+}
+
+#podnaslov {
+	color: red;
+    font-style: italic;
+}
+
+a href {
+	background-color: blue;
+
+}
+
+#drugi_naslov {
+	color: red;
+	text-align: center;
+	font-size: 25px;
+    font-style: italic;
+
+}
+
