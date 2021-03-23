@@ -1,29 +1,16 @@
- body {
-  background-image: url('img/0.jpg');
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: cover;
+body {
+	background-color: lightgreen;
+
 }
 
 #glavni_naslov {
-    background-color: red;
-    color: white;
-    text-align: center;
-    font-style: italic;
-
+	background-color: red;
+	color: blue;
+	text-align: center;
 }
 
-#prvi_naslov {
-	background-color: blue;
-	color: white;
-
-}
-
-#drugi_naslov {
-    color: red;
-
-}
-
-#treci_naslov {
-	color: aqua;
+#demo {
+	text-align: center;
+	color: red;
+	font-weight: 25px;
 }
